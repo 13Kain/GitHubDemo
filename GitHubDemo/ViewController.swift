@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 
     private func something() {
         print("I will be a iOS developer")
+        print("New branch")
     }
 }
 
