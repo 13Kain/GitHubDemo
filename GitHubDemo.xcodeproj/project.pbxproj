@@ -13,6 +13,7 @@
 		0A643AA827E1C326009BA49B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A643AA627E1C326009BA49B /* Main.storyboard */; };
 		0A643AAA27E1C327009BA49B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A643AA927E1C327009BA49B /* Assets.xcassets */; };
 		0A643AAD27E1C327009BA49B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A643AAB27E1C327009BA49B /* LaunchScreen.storyboard */; };
+		0A643AB527E1CD6E009BA49B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0A643AB427E1CD6E009BA49B /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0A643AA927E1C327009BA49B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A643AAC27E1C327009BA49B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A643AAE27E1C327009BA49B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A643AB427E1CD6E009BA49B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0A643AA927E1C327009BA49B /* Assets.xcassets */,
 				0A643AAB27E1C327009BA49B /* LaunchScreen.storyboard */,
 				0A643AAE27E1C327009BA49B /* Info.plist */,
+				0A643AB427E1CD6E009BA49B /* .gitignore */,
 			);
 			path = GitHubDemo;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A643AB527E1CD6E009BA49B /* .gitignore in Resources */,
 				0A643AAD27E1C327009BA49B /* LaunchScreen.storyboard in Resources */,
 				0A643AAA27E1C327009BA49B /* Assets.xcassets in Resources */,
 				0A643AA827E1C326009BA49B /* Main.storyboard in Resources */,
