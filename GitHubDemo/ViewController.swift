@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     private func something() {
-        return
+        print("I will be a iOS developer")
     }
 }
 
